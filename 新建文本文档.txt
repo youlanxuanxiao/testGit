@@ -1,6 +1,2 @@
 测试git使用
-<<<<<<< Updated upstream
-1212311111
-=======
-123123
->>>>>>> Stashed changes
+111111111
